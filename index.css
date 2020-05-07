@@ -1,5 +1,5 @@
 html{
-  background-color: #272b35;
+  background-color: #2e3440;
 }
 
 body {
@@ -48,18 +48,18 @@ body {
 
 a {
   text-decoration: none;
-  color: #8c8c8b;
+  color: #d8dee9;
   display: block;
   margin: .5em 0em;
 }
 
 a:hover {
-  color: #fff;
+  color: #eceff4;
 }
 
 .ascii-art{
 	font-family: monospace;
 	font-weight: 600;
-	color: #fff;
+	color: #d8dee9;
 	white-space: pre;
 }
